@@ -6,7 +6,7 @@ permalink: /terms-of-use/
 
 ##### AGREEMENT TO TERMS
 
-These Terms and Conditions constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Siarhei Serdziukou (“we,” “us” or “our”), regarding your access to and use of the TimeMate+ mobile application together with the content, tools, transactions and other services available by using the App (collectively, the “Service”). You agree that by accessing the App, you have read, understood, and agree to be bound by all of these Terms and Conditions. Therefore, please read the Terms carefully before using the Service.
+These Terms and Conditions constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Siarhei Serdziukou (“we,” “us” or “our”), regarding your access to and use of the NutriCare mobile application together with the content, tools, transactions and other services available by using the App (collectively, the “Service”). You agree that by accessing the App, you have read, understood, and agree to be bound by all of these Terms and Conditions. Therefore, please read the Terms carefully before using the Service.
 
 Please also review our [Privacy Policy](https://korzhuck.github.io/nutricare/privacy-policy/).
 
