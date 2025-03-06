@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: NutriCare
+title: Dayme
 email: freemolto@gmail.com
 domain: korzhuck.github.io
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "/nutricare/" # the subpath of your site, e.g. /blog
-url: "http://korzhuck.github.io/nutricare/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/dayme/" # the subpath of your site, e.g. /blog
+url: "http://korzhuck.github.io/dayme/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: korzhuck
 
 # Build settings

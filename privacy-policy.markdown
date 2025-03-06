@@ -3,7 +3,7 @@ layout: page
 title:  "Privacy Policy"
 permalink: /privacy-policy/
 ---
-NutriCare mobile application (the “Application”) together with the content, tools, transactions and other services available by using the App (collectively, the “Service”) is owned and maintained by Siarhei Serdziukou (“we” or “us” or “our”). We are responsible for the collection and proper management of any personal information you submit. We will keep your personal details secure and use the information you provide consistently with applicable privacy and data protection laws and the terms of this Privacy Policy.
+Dayme mobile application (the “Application”) together with the content, tools, transactions and other services available by using the App (collectively, the “Service”) is owned and maintained by Siarhei Serdziukou (“we” or “us” or “our”). We are responsible for the collection and proper management of any personal information you submit. We will keep your personal details secure and use the information you provide consistently with applicable privacy and data protection laws and the terms of this Privacy Policy.
 
 Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION.
 
